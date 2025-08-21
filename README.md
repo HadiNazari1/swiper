@@ -1,0 +1,2 @@
+# swiper
+tinder auto swipe
